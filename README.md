@@ -21,3 +21,7 @@ This is some screenshots of the application :
 * Side Menu
 
 ![image](https://user-images.githubusercontent.com/102489525/230726874-6d6146ab-57af-43c9-9248-be67cef2f53f.png)
+
+## License
+
+[MIT LICENSE](LICENSE)
